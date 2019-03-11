@@ -1,0 +1,7 @@
+# Don't add google V8 source code #
+####################################
+.vs/
+
+Src/bin
+Src/objd
+Src/obj
